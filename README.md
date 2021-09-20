@@ -1,0 +1,1 @@
+This is a lib to simplify downloading youtube vids. Just import ytvid and use ytvid.download(your yt vid url)
